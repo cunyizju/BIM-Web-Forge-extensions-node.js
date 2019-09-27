@@ -22,9 +22,24 @@
 
 ## Presentation
 
-![basic-web](https://github.com/cunyizju/BIM-Web-Forge-extensions-node.js/tree/master/img/basic-web.png)  
-![2d-drawings](https://github.com/cunyizju/BIM-Web-Forge-extensions-node.js/tree/master/img/2d-drawings.png)  
-![operations](https://github.com/cunyizju/BIM-Web-Forge-extensions-node.js/tree/master/img/operations.png)  
+<p align="center">
+	<img src="https://github.com/cunyizju/BIM-Web-Forge-extensions-node.js/tree/master/img/basic-web.png"   width="500" height="250">
+	<p align="center">
+		<em>basic-web</em>
+	</p>
+</p>
+<p align="center">
+	<img src="https://github.com/cunyizju/BIM-Web-Forge-extensions-node.js/tree/master/img/2d-drawings.png"   width="500" height="250">
+	<p align="center">
+		<em>2d-drawings</em>
+	</p>
+</p>
+<p align="center">
+	<img src="https://github.com/cunyizju/BIM-Web-Forge-extensions-node.js/tree/master/img/operations.png"   width="200" height="100">
+	<p align="center">
+		<em>operations</em>
+	</p>
+</p>
 
 ## Packages used
 
